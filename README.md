@@ -1,7 +1,9 @@
 ### Hi 👋, I am VANSH MARDA 👨‍💻. (An Engineer 👨‍🎓 in the making).
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+
 I'm Computer Science Undergraduate at IIIT Hyderabad with a good handshake in competitive programming 🤓 ,  and Web 🕸 Applications. I love coding and aspires to build things for good 🚀. I love developing awesome and efficient applications / tools 🛠. 
+
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I am Vansh Marda</h1>
 
